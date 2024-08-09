@@ -1,4 +1,4 @@
-#
+#Hello Idiot
 import pygame
 
 pygame.init()
